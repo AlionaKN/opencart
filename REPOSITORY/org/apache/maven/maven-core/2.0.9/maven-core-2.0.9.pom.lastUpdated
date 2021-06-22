@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 22 12:55:31 EEST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1624355731398
+a7f4d5bcbe6152608f9bd1af9ce3f09908c1e23f@default-ISTF-http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.lastUpdated=1624355731321
+http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.error=Could not transfer artifact org.apache.maven\:maven-core\:pom\:2.0.9 from/to ISTF (http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom
+98ae443648fe13d1dc8b1d2300b499cc4658456a@default-EIS-http\://luxor.exigengroup.com/nexus/content/groups/EIS/.lastUpdated=1624355731298
+http\://luxor.exigengroup.com/nexus/content/groups/EIS/.error=Could not transfer artifact org.apache.maven\:maven-core\:pom\:2.0.9 from/to EIS (http\://luxor.exigengroup.com/nexus/content/groups/EIS/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/groups/EIS/org/apache/maven/maven-core/2.0.9/maven-core-2.0.9.pom

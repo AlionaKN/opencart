@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 22 12:55:46 EEST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1624355746862
+a7f4d5bcbe6152608f9bd1af9ce3f09908c1e23f@default-ISTF-http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.lastUpdated=1624355742753
+http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.error=Could not transfer artifact org.apache.maven.shared\:maven-shared-incremental\:jar\:1.1 from/to ISTF (http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar
+98ae443648fe13d1dc8b1d2300b499cc4658456a@default-EIS-http\://luxor.exigengroup.com/nexus/content/groups/EIS/.lastUpdated=1624355742219
+http\://luxor.exigengroup.com/nexus/content/groups/EIS/.error=Could not transfer artifact org.apache.maven.shared\:maven-shared-incremental\:jar\:1.1 from/to EIS (http\://luxor.exigengroup.com/nexus/content/groups/EIS/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/groups/EIS/org/apache/maven/shared/maven-shared-incremental/1.1/maven-shared-incremental-1.1.jar

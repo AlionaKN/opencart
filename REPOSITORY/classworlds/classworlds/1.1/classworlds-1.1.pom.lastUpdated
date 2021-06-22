@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Jun 22 12:55:24 EEST 2021
+https\://repo.maven.apache.org/maven2/.lastUpdated=1624355724258
+a7f4d5bcbe6152608f9bd1af9ce3f09908c1e23f@default-ISTF-http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.lastUpdated=1624355724186
+http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/.error=Could not transfer artifact classworlds\:classworlds\:pom\:1.1 from/to ISTF (http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/repositories/ISTF/classworlds/classworlds/1.1/classworlds-1.1.pom
+98ae443648fe13d1dc8b1d2300b499cc4658456a@default-EIS-http\://luxor.exigengroup.com/nexus/content/groups/EIS/.lastUpdated=1624355724161
+http\://luxor.exigengroup.com/nexus/content/groups/EIS/.error=Could not transfer artifact classworlds\:classworlds\:pom\:1.1 from/to EIS (http\://luxor.exigengroup.com/nexus/content/groups/EIS/)\: Transfer failed for http\://luxor.exigengroup.com/nexus/content/groups/EIS/classworlds/classworlds/1.1/classworlds-1.1.pom
